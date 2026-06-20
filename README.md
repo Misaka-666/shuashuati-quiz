@@ -1,6 +1,8 @@
 # shuashuati-skill
 
-在刷刷题(shuashuati.com)题库编辑页面自动答题的 opencode skill。
+在刷刷题(shuashuati.com)题库编辑页面**自动做英语题**的 opencode skill。
+
+> 🎯 专为英语题目设计：自动读取英语题干和选项，生成中文翻译与解析，批量完成答题。
 
 ## 功能
 
